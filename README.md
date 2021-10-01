@@ -7,3 +7,6 @@ dan masukkan link di bawah ini
 
 Mobile Legends
 https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain/blob/main/Mobile%20Legends
+
+Pubg Mobile
+https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain/blob/main/pubg%20mobile
