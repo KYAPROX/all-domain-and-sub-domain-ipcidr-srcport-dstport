@@ -13,3 +13,6 @@ https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain/blob/main
 
 Free Fire
 https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain-ipcidr-srcport-dstport/blob/main/Free%20Fire
+
+Domino Higgs Island
+https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain-ipcidr-srcport-dstport/blob/main/Domino%20Higgs%20Island
