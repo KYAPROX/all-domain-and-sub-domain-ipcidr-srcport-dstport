@@ -6,16 +6,16 @@ untuk yang ingin menggunakan secara auto bisa ubah file menjadi httppada bagian 
 dan masukkan link di bawah ini
 
 Mobile Legends
-https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain/blob/main/Mobile%20Legends
+https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain/blob/main/Mobile-Legends.yaml
 
 Pubg Mobile
-https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain/blob/main/pubg%20mobile
+https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain/blob/main/pubg-mobile.yaml
 
 Free Fire
-https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain-ipcidr-srcport-dstport/blob/main/Free%20Fire
+https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain-ipcidr-srcport-dstport/blob/main/Free-Fire.yaml
 
 Domino Higgs Island
-https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain-ipcidr-srcport-dstport/blob/main/Domino%20Higgs%20Island
+https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain-ipcidr-srcport-dstport/blob/main/Domino-Higgs-Island.yaml
 
 League Of Legends
-https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain-ipcidr-srcport-dstport/blob/main/League%20Of%20Legends
+https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain-ipcidr-srcport-dstport/blob/main/League-of-Legends.yaml
