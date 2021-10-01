@@ -1,4 +1,4 @@
-# all-domain-and-sub-domain
+# all-domain-sub-domain-ipcidr-srcport-dstport
 game,sosmed,stream,browser
 
 
