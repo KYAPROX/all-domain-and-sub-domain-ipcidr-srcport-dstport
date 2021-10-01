@@ -10,3 +10,6 @@ https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain/blob/main
 
 Pubg Mobile
 https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain/blob/main/pubg%20mobile
+
+Free Fire
+https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain-ipcidr-srcport-dstport/blob/main/Free%20Fire
