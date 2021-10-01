@@ -16,3 +16,6 @@ https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain-ipcidr-sr
 
 Domino Higgs Island
 https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain-ipcidr-srcport-dstport/blob/main/Domino%20Higgs%20Island
+
+League Of Legends
+https://github.com/MasterWifiNetworkSolution/all-domain-and-sub-domain-ipcidr-srcport-dstport/blob/main/League%20Of%20Legends
